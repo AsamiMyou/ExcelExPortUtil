@@ -1,2 +1,3 @@
 # ExcelExportUtil
 基于POI封装的Excel导出工具类
+代码只是普通的java项目，稍做修改以后可以引入自己项目中使用
